@@ -1,6 +1,6 @@
 # AgentMem
 
-[![Python Tests](https://github.com/maxgoff/memory/actions/workflows/python-tests.yml/badge.svg)](https://github.com/maxgoff/memory/actions/workflows/python-tests.yml)
+[![Python Tests](https://github.com/maxgoff/AgentMem/actions/workflows/python-tests.yml/badge.svg)](https://github.com/maxgoff/memory/actions/workflows/python-tests.yml)
 [![PyPI version](https://badge.fury.io/py/agentmem.svg)](https://badge.fury.io/py/agentmem)
 [![Python Versions](https://img.shields.io/pypi/pyversions/agentmem.svg)](https://pypi.org/project/agentmem/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
