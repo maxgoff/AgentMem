@@ -16,6 +16,9 @@ Each memory type supports:
 - Vector-based semantic search using embeddings (for more powerful similarity-based retrieval)
 - Thread-safety for concurrent operations in multi-threaded applications
 
+
+This work was inspired by Harrison Chase's course on [DeepLearning.AI](https://www.deeplearning.ai/short-courses/long-term-agentic-memory-with-langgraph/?utm_campaign=langchainC6-launch&utm_medium=partner&utm_source=langchain).
+
 ## Installation
 
 ```bash
