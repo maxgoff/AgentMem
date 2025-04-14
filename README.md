@@ -320,7 +320,7 @@ Note: Do not use `python -m agentmem.tests.test_performance` as the tests module
 
 ## Documentation
 
-For detailed API documentation and examples, see the [full documentation](https://github.com/maxgoff/AgentMem/docs/).
+For detailed API documentation and examples, see the [full documentation](https://github.com/maxgoff/AgentMem/tree/main/docs).
 
 ## License
 
