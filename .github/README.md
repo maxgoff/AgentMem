@@ -80,7 +80,7 @@ recent_questions = episodic_mem.query("asked", min_importance=5)
 
 ## Documentation
 
-For detailed documentation, examples, and guides, see the [full documentation](https://github.com/maxgoff/AgentMem/docs/README.md).
+For detailed documentation, examples, and guides, see the [full documentation](https://github.com/maxgoff/AgentMem/tree/main/docs).
 
 ## Contributing
 
