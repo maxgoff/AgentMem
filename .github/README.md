@@ -15,6 +15,8 @@ AgentMem provides implementations of three core memory types essential for AI ag
 - **Episodic Memory**: Storage of specific past events and experiences with timestamps and context
 - **Procedural Memory**: Long-term storage of skills and procedures with steps and domains
 
+This work was inspired by Harrison Chase's course on [DeepLearning.AI](https://www.deeplearning.ai/short-courses/long-term-agentic-memory-with-langgraph/?utm_campaign=langchainC6-launch&utm_medium=partner&utm_source=langchain).
+
 Each memory type supports:
 - In-memory storage for quick experimentation
 - File-based persistence for long-term storage
